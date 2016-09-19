@@ -3,7 +3,6 @@ import marked from 'marked';
 
 class Marked extends React.Component {
   render () {
-
     let xx = marked('### I am using __markdown__.');
     let zz = marked('# marked');
     return(

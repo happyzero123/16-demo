@@ -4,7 +4,10 @@ import Routers from './routes';
 import Marked from './Marked';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-// import './main.css';
+
+import 'highlight.js/styles/github-gist.css'
+
+import './main.css';
 
 ReactDOM.render(<Routers />, document.getElementById('app'));
  // ReactDOM.render(<Marked />, document.getElementById('app'));
