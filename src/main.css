@@ -19,6 +19,13 @@
   margin-bottom: 1.1em;
   color: #00f;
 }
+.post-content h2 {
+  text-align: center;
+  font-size: 1.5em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  color: #000;
+}
 .post-content ol {
   padding-left: 20px;
 }
